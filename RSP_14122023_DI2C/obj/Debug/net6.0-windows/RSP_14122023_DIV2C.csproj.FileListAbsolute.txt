@@ -1,0 +1,35 @@
+E:\Facultad\5-Profesorado\2023 - DIV C\2C\Proyectos\Parciales\Sin Uso\RSP_14122023_DIV2C_Alumno\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.csproj.AssemblyReference.cache
+E:\Facultad\5-Profesorado\2023 - DIV C\2C\Proyectos\Parciales\Sin Uso\RSP_14122023_DIV2C_Alumno\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.FrmView.resources
+E:\Facultad\5-Profesorado\2023 - DIV C\2C\Proyectos\Parciales\Sin Uso\RSP_14122023_DIV2C_Alumno\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.Properties.Resources.resources
+E:\Facultad\5-Profesorado\2023 - DIV C\2C\Proyectos\Parciales\Sin Uso\RSP_14122023_DIV2C_Alumno\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.csproj.GenerateResource.cache
+E:\Facultad\5-Profesorado\2023 - DIV C\2C\Proyectos\Parciales\Sin Uso\RSP_14122023_DIV2C_Alumno\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\5-Profesorado\2023 - DIV C\2C\Proyectos\Parciales\Sin Uso\RSP_14122023_DIV2C_Alumno\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.AssemblyInfoInputs.cache
+E:\Facultad\5-Profesorado\2023 - DIV C\2C\Proyectos\Parciales\Sin Uso\RSP_14122023_DIV2C_Alumno\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.AssemblyInfo.cs
+E:\Facultad\5-Profesorado\2023 - DIV C\2C\Proyectos\Parciales\Sin Uso\RSP_14122023_DIV2C_Alumno\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.csproj.CoreCompileInputs.cache
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\bin\Debug\net6.0-windows\RSP_14122023_DIV2C.exe
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\bin\Debug\net6.0-windows\RSP_14122023_DIV2C.deps.json
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\bin\Debug\net6.0-windows\RSP_14122023_DIV2C.runtimeconfig.json
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\bin\Debug\net6.0-windows\RSP_14122023_DIV2C.dll
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\bin\Debug\net6.0-windows\RSP_14122023_DIV2C.pdb
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\bin\Debug\net6.0-windows\Entidades.dll
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.csproj.AssemblyReference.cache
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.FrmView.resources
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.Properties.Resources.resources
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.csproj.GenerateResource.cache
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.AssemblyInfoInputs.cache
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.AssemblyInfo.cs
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.csproj.CoreCompileInputs.cache
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.csproj.CopyComplete
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.dll
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\obj\Debug\net6.0-windows\refint\RSP_14122023_DIV2C.dll
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.pdb
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.genruntimeconfig.cache
+C:\Users\Tobas\Desktop\REPOSITORIO PARCIAL ENTREGA\RSP_14122023\RSP_14122023_DI2C\obj\Debug\net6.0-windows\ref\RSP_14122023_DIV2C.dll
